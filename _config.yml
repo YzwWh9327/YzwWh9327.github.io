@@ -1,8 +1,8 @@
 # Site settings
 title: yangzhengwu's Blog
-SEOTitl: 个人博客
+SEOTitle: 个人博客
 header-img: img/home-bg.jpg
-email:yangzhengwu@hust.edu.cn
+email: yangzhengwu@hust.edu.cn
 description: "这里是yangzhengwu的个人博客，与你一起探索更大的世界"
 keyword: " 个人网站, 互联网, Web"
 url: "https://example.me" # your host, for absolute URL
